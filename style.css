@@ -45,6 +45,7 @@ body{
   border: 0;
   cursor: pointer;
   font-size: 18px;
+  transation:300ms;
   }
 .form-control input[type="submit"]:hover {
   background-color: crimson;
