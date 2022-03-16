@@ -4,7 +4,7 @@
 
 ### Links
 
-- Live Site URL: https://amustafaozkayam.github.io/Survey-Form/
+- Live Site URL: 
 
 
 ### The challenge
